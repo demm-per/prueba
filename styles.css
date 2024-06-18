@@ -1,0 +1,12 @@
+body{
+    color: pink;
+}
+
+.lista__productos{
+    display: flex;
+    gap: 2rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
