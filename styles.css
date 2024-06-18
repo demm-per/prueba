@@ -10,3 +10,18 @@ body{
 p{
     font-size: 1.5rem;
 }
+
+.menu__lista{
+    display: flex;
+    padding-left: 0;
+    gap: 2rem;
+    list-style: none;
+}
+
+.menu__link{
+    text-decoration: none;
+    color:purple;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
